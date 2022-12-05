@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "614919104208",
+    "firebase_url": "https://perplexbrainbow-default-rtdb.firebaseio.com",
+    "project_id": "perplexbrainbow",
+    "storage_bucket": "perplexbrainbow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614919104208:ios:e4fc32e56bb4c277e560d5",
+        "android_client_info": {
+          "package_name": "com.blazar.sonson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614919104208-fti0lng6v4t4u7v2cer4rv5088as2ms7.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6h-2cqRkywEvX94WyDKWFuT5MIfQcU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
